@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="jobs">
+
+        <item>job1</item>
+        <item>job2</item>
+        <item>job3</item>
+
+    </array>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "740541009534",
+    "firebase_url": "https://devam201-default-rtdb.firebaseio.com",
+    "project_id": "devam201",
+    "storage_bucket": "devam201.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740541009534:android:91a8254400e1b5fc56122f",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740541009534-8jhqru87ak8nqfdar1obu2obv5rfu957.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "1f40519e1025ea5cb6eecb26e9bf3c79afd4971a"
+          }
+        },
+        {
+          "client_id": "740541009534-vm3d37ph21nivhf5gj15djg6ml06q8ea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0HRcNCw2Xmz7AdB5NzN4LseUimzi9uHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740541009534-vm3d37ph21nivhf5gj15djg6ml06q8ea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
